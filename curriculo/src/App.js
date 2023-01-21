@@ -33,7 +33,7 @@ function App() {
         </section>
         <section className="conteiner-f">
           <h1>Formacação Acadêmica</h1>
-          <div className="conteiner-flex-logo">
+          <div className="conteiner-flex-logo d-flex">
             <img alt="" className="logo-unifor me-3" src={unifor}></img>
             <h5 className="mt-2 text-white">
               Unifor -&gt; Ciencia Da Computacao -&gt; 2019 - Atual
