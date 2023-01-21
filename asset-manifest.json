@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/curriculoP/static/css/main.1b80bb2b.css",
+    "main.js": "/curriculoP/static/js/main.008638fe.js",
+    "static/js/787.3b86ad0b.chunk.js": "/curriculoP/static/js/787.3b86ad0b.chunk.js",
+    "static/media/unifor-logo.png": "/curriculoP/static/media/unifor-logo.322f63416d2ca42b9693.png",
+    "index.html": "/curriculoP/index.html",
+    "main.1b80bb2b.css.map": "/curriculoP/static/css/main.1b80bb2b.css.map",
+    "main.008638fe.js.map": "/curriculoP/static/js/main.008638fe.js.map",
+    "787.3b86ad0b.chunk.js.map": "/curriculoP/static/js/787.3b86ad0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b80bb2b.css",
+    "static/js/main.008638fe.js"
+  ]
+}
